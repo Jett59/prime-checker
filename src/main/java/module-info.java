@@ -1,2 +1,3 @@
 module com.mycodefu.prime {
+	
 }
